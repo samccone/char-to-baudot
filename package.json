@@ -1,0 +1,27 @@
+{
+  "name": "char-to-baudot",
+  "version": "0.1.0",
+  "description": "Converts a char to Baudot-Murray code, also known as International telegraphy alphabet No. 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samccone/char-to-baudot.git"
+  },
+  "keywords": [
+    "code",
+    "Baudot",
+    "retro",
+    "computing",
+    "teletype",
+    "telegraph"
+  ],
+  "author": "Sam Saccone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samccone/char-to-baudot/issues"
+  },
+  "homepage": "https://github.com/samccone/char-to-baudot"
+}

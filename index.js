@@ -56,4 +56,4 @@ module.exports ={
   ".": "11100",
   "_figure_shift": "11011",
   "_letter_shift": "11111"
-}
+};

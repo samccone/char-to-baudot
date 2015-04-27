@@ -1,6 +1,6 @@
 {
   "name": "char-to-baudot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts a char to Baudot-Murray code, also known as International telegraphy alphabet No. 2",
   "main": "index.js",
   "scripts": {
